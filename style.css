@@ -139,8 +139,6 @@ a{
     text-decoration : none;
     color: var(--orange);
 }
-a:hover{
-}
 @media all and (max-width: 400px){
     #main-container-thank,#main-container{
         width: 90%;
